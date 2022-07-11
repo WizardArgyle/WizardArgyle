@@ -1,0 +1,94 @@
+* {
+    margin: 0%
+}
+@import url('http://fonts.cdnfonts.com/css/sf-fedora-titles-2');
+            
+body {
+background: rgb(100, 100, 100);
+}
+
+h1 {
+    color: purple; text-align: center;
+    font-family: 'SF Fedora Outline';
+    
+    }
+    
+    p.subtitulo {
+        color: rgb(255, 255, 255);text-align: center;font-size: 25px;
+        font-family: 'Oleo Script Swash Caps', cursive;
+    }
+    
+    p.solicitadas {
+        color: rgb(255, 255, 255);text-align: center;font-size: 40px;
+        font-family: 'Oleo Script Swash Caps', cursive;
+    }
+    
+    p.imagen {
+        text-align: center;
+    
+    }
+    
+    /* Titulo y logo fin */
+    
+    form {
+     color: #000;
+    }
+    
+    
+    .barra {
+    
+        width: 40%;
+        margin: auto;
+    }
+    
+    div.cards {
+    
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    .card-img-top {
+    
+        height: 200px;
+        width: 280px;
+        align-items: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    
+    p.info {
+    color: rgb(255, 255, 255,);
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Oleo Script Swash Caps';
+    
+    }
+    
+    .img-canal {
+    width:70% ;
+    height: 5%;
+    }
+    
+    .img-logo {
+    width: 80%;
+    height: 80%;
+        
+    }
+    
+    
+    div.inf {
+    
+        margin-left: 3%;
+        margin-right: 5%;    
+        
+        }
+        
+    div.infdos {
+    margin-left: 20%;
+    margin-right: 5%;    
+    margin-bottom: 5%;
+            
+        }
+/* Titulo y logo fin */
